@@ -1,5 +1,6 @@
 #first program
 #let's try to commit this to remote - more change
+#last change for the season 1
 
 from random import randint
 
