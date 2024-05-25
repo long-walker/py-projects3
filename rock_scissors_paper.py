@@ -1,3 +1,4 @@
+#first program
 from random import randint
 
 user_choices_map = {
